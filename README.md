@@ -7,6 +7,9 @@
 
 ### 📝 Recording
 ------------
-#### [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://chinkl.tistory.com)
+#### [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=dark)](https://chinkl.tistory.com)
+<br/>
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chinkl)](https://solved.ac/chinkl)
 <br/>

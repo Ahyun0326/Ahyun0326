@@ -10,6 +10,7 @@
 #### [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=dark)](https://chinkl.tistory.com)
 <br/>
 
-
+<div align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chinkl)](https://solved.ac/chinkl)
 <br/>
+</div>

@@ -11,6 +11,6 @@
 <br/>
 
 <div align="center">
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chinkl)](https://solved.ac/chinkl)
-<br/>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chinkl)](https://solved.ac/chinkl)
+  <br/>
 </div>

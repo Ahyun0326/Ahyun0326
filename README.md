@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Skills
+#### 💻 Skills
 ------------
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -14,8 +14,9 @@
 
 
 
-📝 Recording
+
+#### 📝 Recording
 ------------
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark})](https://chinkl.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://chinkl.tistory.com)
 
 

@@ -9,6 +9,7 @@
 <h4 align="center"> 🚀 Framework </h4> 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>  
 
 <h4 align="center"> 🚀 Database </h4> 
